@@ -1,0 +1,45 @@
+header {
+  border: 1px solid red;
+  border-radius: 2px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav li a {
+  color: purple;
+}
+
+input {
+  line-height: 25px;
+}
+
+.active {
+  color: yellow;
+}
+
+.red  {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.grandparent h4:nth-child(1){
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.promo {
+  font-weight: bold;
+  color: gold;
+}
